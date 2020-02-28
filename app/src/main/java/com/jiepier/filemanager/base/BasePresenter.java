@@ -1,6 +1,6 @@
 package com.jiepier.filemanager.base;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Created by JiePier on 16/11/12.

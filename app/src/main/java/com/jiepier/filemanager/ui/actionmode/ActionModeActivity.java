@@ -3,8 +3,8 @@ package com.jiepier.filemanager.ui.actionmode;
 import android.app.DialogFragment;
 import android.content.Intent;
 import android.os.AsyncTask;
-import android.support.annotation.NonNull;
-import android.support.v7.view.ActionMode;
+import androidx.annotation.NonNull;
+import androidx.appcompat.view.ActionMode;
 import android.view.Menu;
 import android.view.MenuItem;
 

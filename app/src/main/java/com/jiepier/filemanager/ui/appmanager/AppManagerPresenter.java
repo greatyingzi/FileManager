@@ -1,7 +1,7 @@
 package com.jiepier.filemanager.ui.appmanager;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.jiepier.filemanager.event.PackageEvent;
 import com.jiepier.filemanager.util.AppUtil;

@@ -1,17 +1,15 @@
 package com.jiepier.filemanager.ui.category.picture;
 
 import android.os.Bundle;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.util.Log;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.view.View;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.jiepier.filemanager.R;
 import com.jiepier.filemanager.base.BaseFragment;
 import com.jiepier.filemanager.bean.ImageFolder;
-import com.jiepier.filemanager.ui.category.music.MusicPresenter;
 import com.jiepier.filemanager.widget.DividerGridItemDecoration;
 
 import java.util.ArrayList;

@@ -2,13 +2,11 @@ package com.jiepier.filemanager.ui.main;
 
 import android.app.DialogFragment;
 import android.content.Intent;
-import android.support.annotation.NonNull;
-import android.view.Menu;
+import androidx.annotation.NonNull;
 
 import com.afollestad.materialdialogs.folderselector.FolderChooserDialog;
 import com.jiepier.filemanager.base.BasePresenter;
 import com.jiepier.filemanager.base.BaseView;
-import com.jiepier.filemanager.widget.DirectoryInfoDialog;
 
 import java.io.File;
 

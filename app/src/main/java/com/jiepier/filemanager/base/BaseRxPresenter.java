@@ -1,8 +1,6 @@
 package com.jiepier.filemanager.base;
 
-import android.support.annotation.NonNull;
-
-import com.jiepier.filemanager.ui.common.CommonContact;
+import androidx.annotation.NonNull;
 
 import rx.subscriptions.CompositeSubscription;
 

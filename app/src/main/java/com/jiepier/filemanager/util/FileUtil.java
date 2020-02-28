@@ -10,8 +10,8 @@ import android.graphics.drawable.BitmapDrawable;
 import android.media.MediaMetadataRetriever;
 import android.net.Uri;
 import android.os.Build;
-import android.support.v4.content.FileProvider;
-import android.support.v4.provider.DocumentFile;
+import androidx.core.content.FileProvider;
+import androidx.documentfile.provider.DocumentFile;
 import android.text.TextUtils;
 import android.widget.Toast;
 

@@ -43,7 +43,7 @@
 
     </LinearLayout>
 
-    <android.support.v7.widget.AppCompatCheckBox
+    <androidx.appcompat.widget.AppCompatCheckBox
         android:id="@+id/right_checkbox"
         android:checked="false"
         android:paddingRight="30dp"

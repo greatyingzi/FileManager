@@ -1,7 +1,7 @@
 package com.jiepier.filemanager.ui.category.memory;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.jiepier.filemanager.R;
 import com.jiepier.filemanager.event.UpdateMemoryInfoEvent;

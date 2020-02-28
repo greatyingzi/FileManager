@@ -2,7 +2,7 @@ package com.jiepier.filemanager.ui.actionmode;
 
 import android.app.DialogFragment;
 import android.content.Intent;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.afollestad.materialdialogs.folderselector.FolderChooserDialog;
 import com.jiepier.filemanager.base.BasePresenter;

@@ -1,7 +1,7 @@
 package com.jiepier.filemanager.ui.about;
 
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
 import android.widget.LinearLayout;
 
 import com.jiepier.filemanager.R;
@@ -9,7 +9,6 @@ import com.jiepier.filemanager.base.BaseActivity;
 import com.jiepier.filemanager.util.AnimationUtil;
 
 import butterknife.BindView;
-import butterknife.ButterKnife;
 
 /**
  * Created by JiePier on 16/12/14.

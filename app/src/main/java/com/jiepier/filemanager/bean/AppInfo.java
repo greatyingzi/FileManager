@@ -2,7 +2,7 @@ package com.jiepier.filemanager.bean;
 
 import android.content.pm.PackageInfo;
 import android.graphics.drawable.Drawable;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Created by panruijie on 2017/3/28.

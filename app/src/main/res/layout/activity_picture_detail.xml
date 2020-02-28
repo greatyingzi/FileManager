@@ -6,7 +6,7 @@
 
     <include layout="@layout/include_toolbar"/>
 
-    <android.support.v4.view.ViewPager
+    <androidx.viewpager.widget.ViewPager
         android:id="@+id/imagepager"
         android:layout_marginTop="?actionBarSize"
         android:layout_width="match_parent"

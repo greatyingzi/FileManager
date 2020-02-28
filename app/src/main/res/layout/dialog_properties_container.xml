@@ -12,7 +12,7 @@
         android:background="?android:attr/dividerHorizontal"
         vpi:selectedColor="?colorAccent" />
 
-    <android.support.v4.view.ViewPager
+    <androidx.viewpager.widget.ViewPager
         android:id="@+id/tabsContainer"
         android:layout_width="match_parent"
         android:layout_height="@dimen/container_height" />

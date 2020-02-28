@@ -2,10 +2,9 @@ package com.jiepier.filemanager.ui.category.picture.detail;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.support.v4.widget.ContentLoadingProgressBar;
-import android.view.LayoutInflater;
+import androidx.core.widget.ContentLoadingProgressBar;
+
 import android.view.View;
-import android.view.ViewGroup;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
@@ -17,7 +16,6 @@ import com.jiepier.filemanager.base.App;
 import com.jiepier.filemanager.base.BaseFragment;
 
 import butterknife.BindView;
-import butterknife.ButterKnife;
 import uk.co.senab.photoview.PhotoView;
 
 /**

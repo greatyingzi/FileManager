@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.graphics.drawable.Drawable;
-import android.support.v4.app.ActivityCompat;
+import androidx.core.app.ActivityCompat;
 
 import com.blankj.utilcode.utils.AppUtils;
 import com.jaredrummler.android.processes.AndroidProcesses;

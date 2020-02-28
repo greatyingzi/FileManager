@@ -1,8 +1,8 @@
 package com.jiepier.filemanager.ui.setting;
 
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.v7.widget.Toolbar;
+import androidx.annotation.NonNull;
+import androidx.appcompat.widget.Toolbar;
 import android.widget.FrameLayout;
 
 import com.afollestad.materialdialogs.folderselector.FolderChooserDialog;

@@ -1,7 +1,7 @@
 package com.jiepier.filemanager.ui.common;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.jiepier.filemanager.event.AllChoiceEvent;
 import com.jiepier.filemanager.event.ChoiceFolderEvent;
